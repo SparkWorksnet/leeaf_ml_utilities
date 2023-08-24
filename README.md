@@ -14,3 +14,5 @@ A jupyter notebook to train a leaf detection model using the trainYOLO platform.
 ### leeaf_s3_image_parser
 An AWS lambda function to check newly collected images for leafs and generate cropped leaf images from them using a YOLO-based ML model.
 
+## Classification
+Contains a benchmark file and ML models that can be used to test the speed of the classification process on different systems.
