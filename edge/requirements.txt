@@ -1,0 +1,9 @@
+selenium
+exif
+geopy
+flask
+tensorflow
+opencv-python
+Pillow
+ultralytics
+boto3
